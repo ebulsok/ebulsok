@@ -26,7 +26,7 @@
   
 <p>Me</p>
 
-<a href="https://velog.io/@dev_zzame">![img](https://img.shields.io/badge/TechBlog-000000?style=for-the-badge&logo=Tistory&logoColor=white)</a>
+<a href="https://bulsok.tistory.com">![img](https://img.shields.io/badge/TechBlog-000000?style=for-the-badge&logo=Tistory&logoColor=white)</a>
 <a href="leebulsok@gmail.com">![img](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)</a>
 
 ![ebulsok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebulsok&show_icons=true&theme=dark)
