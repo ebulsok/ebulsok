@@ -1,7 +1,4 @@
-<div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=ebulsok&fontSize=90)
-  
+<div align=center>  
 <p>Back-end</p>
 
 ![img](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -25,7 +22,5 @@
 <p>Me</p>
 
 <a href="https://bulsok.tistory.com">![img](https://img.shields.io/badge/TechBlog-000000?style=for-the-badge&logo=Tistory&logoColor=white)</a>
-
-![ebulsok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebulsok&show_icons=true&theme=dark)
 
 </div>
